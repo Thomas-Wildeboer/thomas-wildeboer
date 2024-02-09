@@ -1,10 +1,13 @@
 ### Hello
 
 Me: 
+
 https://www.linkedin.com/in/thomas-wildeboer/
 
 Affiliations:
+
 https://sztepanacz.eeb.utoronto.ca/
+
 https://tomopfuku.github.io/
 
 <!--
