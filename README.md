@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello
+
+Me: 
+https://www.linkedin.com/in/thomas-wildeboer/
+
+Affiliations:
+https://sztepanacz.eeb.utoronto.ca/
+https://tomopfuku.github.io/
 
 <!--
 **Thomas-Wildeboer/thomas-wildeboer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
