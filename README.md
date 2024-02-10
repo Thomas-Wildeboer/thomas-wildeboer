@@ -2,7 +2,9 @@
 
 Me: 
 
-https://www.linkedin.com/in/thomas-wildeboer/
+https://thomas-wildeboer.github.io/
+
+https://linkedin.com/in/thomas-wildeboer/
 
 Affiliations:
 
