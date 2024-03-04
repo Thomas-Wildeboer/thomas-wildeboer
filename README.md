@@ -2,7 +2,7 @@
 
 Me: 
 
-https://thomas-wildeboer.github.io/
+https://wildeboer.io
 
 https://linkedin.com/in/thomas-wildeboer/
 
