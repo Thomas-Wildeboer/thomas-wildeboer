@@ -1,28 +1,15 @@
 # Hello
 
+I am currently a PhD candidate at the [Department of Ecology and Evolutionary Biology](https://eeb.utoronto.ca/) in the University of Toronto, advised by Jacqueline Sztepanacz and Tomomi Parins-Fukuchi. My current interests span mathematical and computational biology, quantitative genetics and genomics, and the evolution of evolvability.
+
 ### Me: 
 
 https://wildeboer.io
 
-https://linkedin.com/in/thomas-wildeboer/
+[LinkedIn](https://linkedin.com/in/thomas-wildeboer/)
 
 ### Affiliations:
 
-https://sztepanacz.eeb.utoronto.ca/
+[Sztepanacz Lab](https://sztepanacz.eeb.utoronto.ca/)
 
-https://tomopfuku.github.io/
-
-<!--
-**Thomas-Wildeboer/thomas-wildeboer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Parins-Fukuchi Lab](https://tomopfuku.github.io/)
